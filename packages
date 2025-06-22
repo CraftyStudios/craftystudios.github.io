@@ -22,6 +22,7 @@ dev.crafty.core.i18n
 dev.crafty.core.plugin
 dev.crafty.core.bukkit
 dev.crafty.core.storage
+dev.crafty.core.storage.wrappers
 dev.crafty.core.storage.providers
 dev.crafty.core.storage.serialization
 dev.crafty.core
