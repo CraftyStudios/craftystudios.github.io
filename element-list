@@ -1,4 +1,7 @@
 dev.crafty.core
+dev.crafty.core.actions
+dev.crafty.core.actions.config
+dev.crafty.core.actions.impl
 dev.crafty.core.bridge
 dev.crafty.core.bridge.economy
 dev.crafty.core.bridge.economy.vault

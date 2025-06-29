@@ -19,6 +19,9 @@ dev.crafty.core.storage
 dev.crafty.core.storage.wrappers
 dev.crafty.core.storage.providers
 dev.crafty.core.storage.serialization
+dev.crafty.core.actions.config
+dev.crafty.core.actions
+dev.crafty.core.actions.impl
 dev.crafty.core.task.api
 dev.crafty.core.task.providers
 dev.crafty.core.util
