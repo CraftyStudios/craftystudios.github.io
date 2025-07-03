@@ -25,3 +25,4 @@ dev.crafty.core.storage.wrappers
 dev.crafty.core.task.api
 dev.crafty.core.task.providers
 dev.crafty.core.util
+dev.crafty.core.util.input
